@@ -11,7 +11,7 @@ const Header = () => {
       <nav className="container mx-auto flex items-center justify-between p-4">
         <h1 className="text-xl font-bold">
           <NavLink to="/" className="hover:text-blue-500">
-            MyApp
+            E-commerce
           </NavLink>
         </h1>
         <div className="flex space-x-6">
